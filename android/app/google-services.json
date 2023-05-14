@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703583527275",
+    "project_id": "kuapp1",
+    "storage_bucket": "kuapp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703583527275:android:5cc9d7cdb886a4d7bd2c2e",
+        "android_client_info": {
+          "package_name": "com.example.kuapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703583527275-lt65u22097gjsobedb1p890g66tsq9ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDQ0X96CpVOiNAfCl1oAtHcW5Z6mPXCQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703583527275-lt65u22097gjsobedb1p890g66tsq9ms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
