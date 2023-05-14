@@ -63,9 +63,9 @@ dev_dependencies:
   flutter_lints: ^2.0.0
 flutter_icons:
   android: true
-  # image_path_android: "assets/1.jpg"
-  ios: true
-  image_path: "assets/1.jpg"
+  # image_path_android: "assets/1_png.png"
+  # ios: true
+  image_path:  "assets/1_png.png"
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
