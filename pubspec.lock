@@ -257,56 +257,8 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "6.1.4"
-  firebase_analytics:
-    dependency: "direct main"
-    description:
-      name: firebase_analytics
-      sha256: "0dfe8a3da3052400a266e8d929d2940545aac4c37ec1f1c5e11c0df3175ce9ad"
-      url: "https://pub.dev"
-    source: hosted
-    version: "10.4.0"
-  firebase_analytics_platform_interface:
-    dependency: transitive
-    description:
-      name: firebase_analytics_platform_interface
-      sha256: "45a023037fbb7d081bee5f6b0c421b33a48e2471ab27810bdbcc185c878bd317"
-      url: "https://pub.dev"
-    source: hosted
-    version: "3.6.0"
-  firebase_analytics_web:
-    dependency: transitive
-    description:
-      name: firebase_analytics_web
-      sha256: c60b1042cacf2c8075569717fe3b5f9e26936d2063bc8d749ca8b102fe6cfec0
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.5.4"
-  firebase_auth:
-    dependency: "direct main"
-    description:
-      name: firebase_auth
-      sha256: bb7064bc837965445893b2388da27142d1cd8198e4be9a3855703d2bfc6ffbaf
-      url: "https://pub.dev"
-    source: hosted
-    version: "4.6.0"
-  firebase_auth_platform_interface:
-    dependency: transitive
-    description:
-      name: firebase_auth_platform_interface
-      sha256: "00247ae9b9deb1d1ef3ff1b0c7a1103b51caf973b8a43f326595e414380fd5e2"
-      url: "https://pub.dev"
-    source: hosted
-    version: "6.15.0"
-  firebase_auth_web:
-    dependency: transitive
-    description:
-      name: firebase_auth_web
-      sha256: "2c273f8bd78ba5fcd955b85ac0cbba1e7568fee02f14ef9416befcb899a2aa9e"
-      url: "https://pub.dev"
-    source: hosted
-    version: "5.5.0"
   firebase_core:
-    dependency: "direct main"
+    dependency: transitive
     description:
       name: firebase_core
       sha256: "4491238f4fddc885bc994e304a035eb8aba2c935816b2c0b31d87f3ec6e96682"
