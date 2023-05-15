@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.kuapp1">
+    package="com.utilities.kuapp">
    <application
-        android:label="kuapp1"
+        android:label="Ku tiện ích 2023"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

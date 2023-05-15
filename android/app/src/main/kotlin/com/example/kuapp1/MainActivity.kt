@@ -1,4 +1,4 @@
-package com.example.kuapp1
+package com.utilities.kuapp
 
 import io.flutter.embedding.android.FlutterActivity
 
