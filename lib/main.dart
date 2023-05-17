@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_remote_config/firebase_remote_config.dart';
 import 'package:flutter/material.dart';
@@ -13,6 +15,7 @@ import 'package:loading_overlay/loading_overlay.dart';
 Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
+  await Timer(Duration(seconds: 3), () async {});
   runApp(const MyApp());
 }
 

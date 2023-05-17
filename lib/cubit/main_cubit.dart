@@ -10,7 +10,7 @@ class MainCubit extends Cubit<MainState> {
   final _remoteConfig = FirebaseRemoteConfig.instance;
   void init() async {
     await _remoteConfig.setConfigSettings(RemoteConfigSettings(
-      fetchTimeout: const Duration(seconds: 60),
+      fetchTimeout: const Duration(seconds: 10),
       minimumFetchInterval: const Duration(seconds: 1),
     ));
     await _remoteConfig.ensureInitialized();
